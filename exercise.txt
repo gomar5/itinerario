@@ -8,3 +8,11 @@ tomo el transporte a las 6:35 am
 llego al trabajo a las 7:00 am
 salgo de trabajar a las 5:00 pm
 me voy a dormir a las 10:00 pm
+
+dia 2
+
+me despierto a las 5:00 am
+desayuno a las 5:40 am
+tomo el transporte a las 6:00 am
+llego a la escuela a las 6:20 am
+salgo de la esucuela a las 2:00 pm
