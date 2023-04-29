@@ -1,1 +1,9 @@
-#itinerario
+
+
+dia 1
+
+me despierto a las 6:00 am
+desayuno a las 6:30 am
+tomo el transporte a las 6:35 am
+llego al trabajo a las 7:00 am
+salgo de trabajar a las 5:00 pm
